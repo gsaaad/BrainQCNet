@@ -1,0 +1,6 @@
+qc-env
+saved_models
+saved_models.zip
+__pycache__
+BIDS_data
+out_brainqcnet
