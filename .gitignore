@@ -4,3 +4,5 @@ saved_models.zip
 __pycache__
 BIDS_data
 out_brainqcnet
+out_brainqcnet*
+BrainQCNet-*
